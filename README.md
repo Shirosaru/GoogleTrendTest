@@ -6,13 +6,13 @@ Just an idea
 Jupytter Notebook install via pip install notebook or just inside VS code
 
 '''
-pytrends
-pandas
-matplotlib
-requests
-lxml
-yfinance
-seaborn
-umap-learn
-backports.zoneinfo  # Only if you're using Python < 3.9
+pytrends\
+pandas\
+matplotlib\
+requests\
+lxml\
+yfinance\
+seaborn\
+umap-learn\
+backports.zoneinfo  # Only if you're using Python < 3.9\
 '''
